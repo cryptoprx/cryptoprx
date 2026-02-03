@@ -15,87 +15,117 @@
            ####                                                                                          ####        
                                                                                                                      
                                                                                                                      
-# 🐸 CROAKWORKS
+CROAKWORKS
 
-CROAKWORKS is a collective of builders, artists, developers, and innovators pushing culture and technology forward on the blockchain.  
-No bosses. No gatekeepers. **We build — together.**
+Community-born. Institution-ready. Borderless by design.
 
----
+CROAKWORKS is a global development and creative solutions studio building secure, scalable, and culturally relevant digital products across Web2 and Web3.
 
-## 🌍 What CROAKWORKS Represents
-We believe in:
-- **Community > Ego**
-- **Transparency & Fairness**
-- **Long-term utility over hype**
-- **Culture + Technology**
-- **Privacy & Encryption as a right**
+We specialize in ledger-native blockchain systems, XRPL tooling, token ecosystems, NFTs, AI-powered media, and custom software solutions for communities, creators, and institutions.
 
-CROAKWORKS projects are built to last, built for everyday users, and built for real ownership — not speculation alone.
+Official website: https://croak.work
 
----
+Overview
 
-## 🚀 The CROAKWORKS Ecosystem
+CROAKWORKS operates as a multidisciplinary collective of developers, designers, engineers, artists, and strategists distributed across multiple regions.
 
-| Project | Focus |
-|--------|-------|
-| **FLIPPRX** | Cultural NFT + token brand representing survival, grit, and degen innovation. |
-| **MIMO** | Encrypted messenger using XRPL memos, IPFS & privacy-first communication. |
-| **CROAKnomics** | Ledger-native tokenomics tracking for total transparency. |
-| **XEND3 Wallet** | Mobile XRPL wallet with security UX enhancements, encryption features, and messaging system integration. |
-| **Launch Platforms** | Tools for fair launches, micro-tokens, and AMMs using escrows and ledger-native mechanics. |
+Our work prioritizes long-term utility, technical correctness, security, and community-driven growth over short-term trends.
+We focus on building systems that are resilient, composable, and designed to endure.
 
-> Every drop, every tool, every release follows a single rule: **the community should always win.**
+Areas of Expertise
 
----
+Web2 and Web3 software development
 
-## 🧠 Technology & Philosophy
+XRPL-native applications and infrastructure
 
-CROAKWORKS builds on:
-- **XRPL first**
-- **Next.js • Tailwind • Rust • Tauri • WebRTC • IPFS**
-- **Encryption & privacy by design**
-- **Ledger-native architecture over centralized databases**
+Token and smart-contract deployment
 
-We design systems that don’t rely on trust — they rely on math.
+NFT collections and marketplace architecture
 
----
+Wallet integrations and transaction tooling
 
-## 🎨 Culture Meets Code
-CROAKWORKS is not just software — it's identity.
+Accounting and auditing support for digital assets
 
-- Music  
-- Art  
-- Characters  
-- Web3 culture  
-- Technology for everyone  
+AI-generated art, music, and media pipelines
 
-Web3 should feel good to use — **and look good too.**
+Video production and songwriting
 
----
+Branding, identity, and digital presence
 
-## 🧩 Contribution
-There are a million ways to contribute to CROAKWORKS:
-- Development
-- Art & characters
-- Music & audio
-- Security & encryption
-- UX & UI
-- Docs
-- Culture & community
+Community onboarding and operational tooling
 
-If you build something aligned with the mission — **it is CROAKWORKS.**
+Custom, institution-grade digital solutions
 
----
+Ecosystem Projects
+Core Platform
 
-## 🔗 Connect
-| Platform | Link |
-|---------|------|
-| 🌐 Website | https://croak.work |
-| 🐦 X / Twitter | https://x.com/croakworks |
-| 🐸 FLIPPRX | https://flipprx.xyz |
-| 💬 MIMO | https://mimo.works |
+CROAKWORKS — Official studio website and ecosystem hub
+https://croak.work
 
----
+MIMO Messenger
 
-### 🧵 Motto
-> **We don’t chase trends — we build them.**
+Powered by the XRPL Blockchain
+
+MIMO is a secure messaging platform built on the XRP Ledger, designed to reimagine private communication using blockchain-native principles.
+
+It delivers end-to-end encrypted messaging while leveraging the XRPL for message integrity and decentralized verification, without relying on centralized message custody.
+
+MIMO combines strong cryptography with a clean, familiar interface, making secure communication accessible to everyday users while remaining suitable for advanced, wallet-native use cases.
+
+App: https://mimo.works
+
+Documentation: https://mimo.croak.work
+
+FLIPPRX Ecosystem
+
+FLIPPRX — XRPL-native NFT, token, and music ecosystem
+https://flipprx.xyz
+
+FLIPPRX ONE Wallet — Wallet and transaction signing interface
+https://flipprx.one
+
+FLIPPRX NFTs — Official NFT collection on XRPL
+https://xrp.cafe/collection/g-flipprx
+
+FLIPPRX Token — Official token listing
+https://xmagnetic.org/tokens/FLIPPRX+rHAjURZLkFqEo35pdKhkToErE25hrqsn4R?network=mainnet
+
+FLIPPRX Music — Official music releases and soundtrack
+https://youtube.com/playlist?list=OLAK5uy_mwWCwJXEkfP_3FxCjXkh_hA2g9Jg0-IJY
+
+FLIPPRX Retro Game — Experimental interactive experience
+https://flipprx.app
+
+Supporting Tools (Information Only)
+
+My NFT Space — XRPL wallet-based NFT gallery platform
+
+Binme Profiles — Digital identity and profile system
+
+Media & Community
+
+La Gerencia — Crypto-focused media and community platform
+https://lagerenciapr.com
+
+Technical Philosophy
+
+Ledger-native first approach (XRPL memos, escrows, AMMs, NFTs)
+
+Minimal reliance on centralized databases
+
+Client-side indexing where possible
+
+Security-first wallet and transaction design
+
+Modular, reusable architectures
+
+Clear separation between protocol logic and user interfaces
+
+Collaboration Model
+
+CROAKWORKS is community-driven and non-hierarchical.
+
+Contributors collaborate based on skill, expertise, and initiative rather than formal titles.
+We work with independent developers, creatives, researchers, and community operators who align with our long-term vision.
+
+Collaboration is open to those building with intent, responsibility, and technical rigor.
